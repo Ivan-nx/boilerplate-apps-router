@@ -1,11 +1,9 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+![React Avançado](https://raw.githubusercontent.com/Ivan-nx/boilerplate-apps-router/main/public/img/logo-gh.svg)
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
+Este é um projeto [Next.js](https://nextjs.org/) para ser usado em um curso chamado [React Avançado](https://reactavancado.com.br/).
 ![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg)
 
-## What is inside?
-
-This project uses lot of stuff as:
+## Este projeto usa muitas coisas como:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
@@ -17,42 +15,42 @@ This project uses lot of stuff as:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
-## Getting Started
+## Começando
 
-First, run the development server:
+Primeiro, execute o servidor de desenvolvimento:
 
-```bash
+```terminal
 npm run dev
-# or
+# ou
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra seu navegador [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Você pode começar a editar a página modificando `pages/index.js`. A página é atualizada automaticamente conforme você edita o arquivo.
 
-## Commands
+## Comandos
 
-- `dev`: runs your application on `localhost:3000`
-- `build`: creates the production build version
-- `start`: starts a simple server with the build production code
-- `lint`: runs the linter in all components and pages
-- `test`: runs jest to test all components and pages
-- `test:watch`: runs jest in watch mode
-- `storybook`: runs storybook on `localhost:6006`
-- `build-storybook`: create the build version of storybook
+- `dev`: executar seu aplicativo em `localhost:3000`
+- `build`: criar a versão de compilação de produção
+- `start`: iniciar um servidor simples com o código de produção da compilação
+- `lint`: executar o linter em todos os componentes e páginas
+- `test`: executar jest para testar todos os componentes e páginas
+- `test:watch`: executar jest no modo...
+- `storybook`: executar o storybook em `localhost:6006`
+- `build-storybook`: criar a versão storybook
 
-## Learn More
+## Saber mais
 
-To learn more about Next.js, take a look at the following resources:
+Para saber mais sobre Next.js:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs) - aprenda sobre os recursos e API do Next.js.
+- [Learn Next.js](https://nextjs.org/learn) - um tutorial interativo do Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Você pode conferir [o repositório Next.js GitHub](https://github.com/vercel/next.js/) - seus comentários e contribuições são bem-vindos!
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) dos criadores do Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Confira nossa [Next.js deployment documentation](https://nextjs.org/docs/deployment) para mais detalhes.
